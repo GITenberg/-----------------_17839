@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26
     wikipedia: http://en.wikipedia.org/wiki/Sophocles
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17839#-----------------
 gutenberg_issued: '2006-02-23'
 gutenberg_type: Text
 identifiers:
